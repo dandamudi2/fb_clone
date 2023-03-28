@@ -9,6 +9,7 @@ const nextConfig = {
       "firebasestorage.googleapis.com",
       "www.loginradius.com",
       "lh3.googleusercontent.com",
+      "srinivasu-dandamudi-fb.netlify.app",
     ],
   },
 };
